@@ -8,7 +8,7 @@ The objective is to segment tumors in Brain MRI images with K-Means, one of the 
 
 ## Flowchart
 
-<img src="flowchart.png" width="250" height="250">
+<img src="flowchart.png" width="250" height="400">
 
 ## Input
 
@@ -28,4 +28,4 @@ Python 3.6.9
 
 ## Outputs 
 
-<img src="output.PNG" width="250" height="250">
+<img src="output.PNG" width="400" height="300">
